@@ -1,3 +1,5 @@
+[![CI](https://github.com/msaenzjr23/elevator-simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/msaenzjr23/elevator-simulation/actions/workflows/ci.yml)
+
 # Elevator Simulation (C++17)
 
 Console-based elevator simulation that models multiple elevators servicing requests across floors, with request assignment and step-by-step simulation output.
