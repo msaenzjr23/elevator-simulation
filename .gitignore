@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
+a.out
+*.exe
+bin/
+
+# Logs
+*.log
+elevator_log.txt
+
+# Editor
+.vscode/
