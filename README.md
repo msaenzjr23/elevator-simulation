@@ -5,12 +5,12 @@
 Console-based elevator simulation that models multiple elevators servicing requests across floors, with request assignment and step-by-step simulation output.
 
 ## Build
-
-(make)
+```bash
+make
 
 ## Run
 
-(make run)
+make run
 
 ## Notes
 - Written in C++17
